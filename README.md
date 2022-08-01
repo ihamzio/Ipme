@@ -1,6 +1,6 @@
 **Ip Address Finder in c++**
 
-**Ipme** v1.0 (Coded by **[Hamza](https://www.facebook.com/Itz47)**).
+**Ipme** v1.0 (Coded by **[Hamza](https://www.facebook.com/ihamzio)**).
 
 This Tool Will Find Your Public/External Ip Address.
 
